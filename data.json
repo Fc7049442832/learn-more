@@ -1,0 +1,43 @@
+[
+    {
+        "img" : "img/java.jpg",
+        "title": "Java Programming",
+        "description": "des..."
+    },
+    {
+        "img" : "img/python.jpg",
+        "title": "Python Programming",
+        "description": "des..."
+    },
+    {
+        "img" : "img/js-jquery.png",
+        "title": "jQuery (framework)",
+        "description": "des..."
+    },
+    {
+        "img" : "img/bootstrap.jpg",
+        "title": "Bootstrap (framework)",
+        "description": "des..."
+    },
+    {
+        "img" : "img/pdj.jpg",
+        "title": "Django (framework)",
+        "description": "des..."
+    },
+    {
+        "img" : "img/lara.jpg",
+        "title": "Laravel (framework)",
+        "description": "des..."
+    },
+    {
+        "img" : "img/react.jpg",
+        "title": "React.Js (framework)",
+        "description": "des..."
+    },
+    {
+        "img" : "img/nodejs.png",
+        "title": "Node.JS (framework)",
+        "description": "des..."
+    }
+
+]
